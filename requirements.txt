@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+scipy
+tqdm
+opencv-python
+imagehash
+pdqhash
